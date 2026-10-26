@@ -22,5 +22,4 @@ A simple web application that calculates students' total scores and grades autom
 * `script.js`
 
 ### Author
-
-Victor Amakiri
+Wisdom Ugoala
